@@ -1,7 +1,3 @@
-c   Sin Series Aproximation
-c   sin x = x - x**3/3! + x**5/5! - x**7/7! + ...
-
-
 c------------------------------------------------ FATORIAL
         double precision function f (n)
         integer n, i
